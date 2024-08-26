@@ -1,1 +1,2 @@
-# CS_Note
+# MY-CS-NOTE
+record my learning notes
